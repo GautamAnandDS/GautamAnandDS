@@ -19,7 +19,7 @@ Currently progressing towards completing modules in Applied Statistics and Machi
 Data analysis, data visualization, Python, SQL, and how to automate tasks for data-driven decision-making.
 
 📫 How to Reach Me
-LinkedIn: linkedin.com/in/gautam-anand-ds
+LinkedIn: https://www.linkedin.com/in/gautam-anand-ds/
 Email: anandgautam023@gmail.com
 
 <!---
